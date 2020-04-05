@@ -26,7 +26,7 @@
                             <li class="scroll-to-section"><a href="/service" >Nos Services</a></li>
                             <li class="scroll-to-section"><a href="/produit" >Nos Produits</a></li>
                             <li class="submenu">
-                                <a href="javascript:;">A Propo</a>
+                                <a href="javascript:;">A Propos</a>
                                 <ul>
                                     <li><a href="/ahts" class="">A Propo de High Tech Solution</a></li>
                                     <li><a href="" class="">Philosophie</a></li>
